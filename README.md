@@ -10,7 +10,7 @@ Hi there! I am a student of Computer Science. I am currently finishing up my 4th
 <!-- My skills -->
 ### 🔧 My Skills:
 Object Oriented Programming in C# and Java (both include GUI). Programing in Python(including Pandas) and C. <br/>
-Web programming using ASP.NET, JavaScript, React, and database access using MS-SQL. Tools such as Firebase, Bootstrap, Postman.</br>
+Web programming using ASP.NET, JavaScript, React,React Native and database access using MS-SQL. Tools such as Firebase, Bootstrap, Postman.</br>
 TCP,UDP and more communication protocols.
 
 <br/> <br/>
@@ -48,6 +48,8 @@ TCP,UDP and more communication protocols.
     - Data Set
     - Postman
     -MVC
+    - React
+    - React Native
   </details>
 
 * <details>
